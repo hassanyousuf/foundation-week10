@@ -1,0 +1,44 @@
+section {
+	border:1px solid #000;
+	/* display: block; */
+	background-color: white;
+
+}
+
+.noborder {
+	border:0;
+}
+
+body{
+	font-family:Helvetica, Arial, Sans-serif, Serif;
+	font-family: 'Poiret One', cursive;
+	font-family: 'Raleway', sans-serif;
+	font-size:14px;
+	overflow: auto;
+		border:1px solid #000;
+}
+#siteContainer
+{
+	background-color:white;
+	border:1px solid #000;
+}
+h3
+{
+	font-family: 'Poiret One', cursive;
+	margin:0px;
+	text-align: center;
+
+}
+
+article{
+
+padding-top: 10px;
+padding-left: 20px;
+	margin: auto 0;
+}
+#block
+{
+	text-align:justify;
+	overflow: auto;
+	align-items:center;
+}
